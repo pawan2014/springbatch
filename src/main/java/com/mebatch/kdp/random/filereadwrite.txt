@@ -1,0 +1,15 @@
+11-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+22-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+63-191675  01  01/14/2013  2368183100   AUNHQEX XUFQANY            S1   No            Yes                             43,537.00    Yes
+84-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+65-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+56-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+47-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+68-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+09-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+50-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+51-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+72-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+43-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+44-191675  01  01/14/2013  2368183100   OUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
+85-191675  01  01/14/2013  2368183100   LUNHQEX XUFQONY            S1   No            Yes                             43,537.00    Yes
