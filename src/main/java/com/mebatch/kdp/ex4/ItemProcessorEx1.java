@@ -30,7 +30,7 @@ public class ItemProcessorEx1 implements ItemProcessor<Person, Person> {
 		stepContext.put("counter", count);
 		System.out.println();
 		Thread.sleep(500);
-		item.setCounter(count);
+		// item.setCounter(count);
 		return item;
 	}
 
